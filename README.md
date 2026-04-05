@@ -19,7 +19,7 @@ menggunakan Google BigQuery dan Looker Studio.
 - kf_product
 
 ## Dashboard
-[Link Dashboard Looker Studio]
+https://lookerstudio.google.com/reporting/cc742c75-be99-474b-8817-bf642c80d3e1
 
 ## Hasil Analisis
 - Jawa Barat mendominasi transaksi dengan 198.723 transaksi
