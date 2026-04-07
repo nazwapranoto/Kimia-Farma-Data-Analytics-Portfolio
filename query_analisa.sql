@@ -42,3 +42,4 @@ LEFT JOIN `KimiaFarma.kf_kantor_cabang` kc
   ON ft.branch_id = kc.branch_id
 LEFT JOIN `KimiaFarma.kf_product` p
   ON ft.product_id = p.product_id;
+nxnduwu
